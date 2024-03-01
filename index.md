@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Thinh Nguyen's resume
 layout: home
 ---
 
