@@ -11,6 +11,8 @@ VinUniversity, Hanoi, Vietnam
 
 **Email:** thinhnguyenresearch@gmail.com
 
+ [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/lucaznguyen/)
+
 # **Objectives**
 
 I am currently studying for a Master's in Data Science at VNU-HCM, University of Science. I focus on continual learning and multi-label classification in my research. I have two years of experience working as a data scientist, where I have shown responsibility and skill. My work has given me various abilities, and I am excited to bring my mix of academic learning and practical know-how to a team that values innovation and data-driven solutions.
@@ -23,6 +25,8 @@ I am currently studying for a Master's in Data Science at VNU-HCM, University of
 **Conference:** KSE 2023
 
 **Abstract:** This paper presents an effective solution to the aforementioned issues. The proposed technique queries the existence of a class label using Transformer decoders and the text embedding method to initiate the query. The new framework is simple, efficient, and consistently outperforms all preceding works on the FATHOMNET, FAIR1M, and DOTA datasets.
+
+**Available at:** [https://ieeexplore.ieee.org/document/10299421/]
 
 ## The Effect of Sequence Transferability on Performance and Task Order Selection in Continual Learning
 **Authors:** Thinh Nguyen, Cuong N. Nguyen, Quang Pham, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Cuong V. Nguyen
