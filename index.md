@@ -8,12 +8,12 @@ layout: home
 
 <p style="text-align: center;">
  Nguyen Tran Huu Thinh
-
+</p>
+<p style="text-align: center;">
  VinUniversity, Hanoi, Vietnam
-
- **Email:** thinhnguyenresearch@gmail.com
-
- [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/lucaznguyen/)
+</p>
+<p style="text-align: center;">
+ thinhnguyenresearch@gmail.com
 </p>
 
 # **Objectives**
