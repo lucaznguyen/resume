@@ -1,5 +1,5 @@
 ---
-title: Thinh Nguyen's resume
+title: Objective
 layout: home
 ---
 
