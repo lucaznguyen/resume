@@ -3,7 +3,7 @@ title: Basic information
 layout: home
 ---
 <p align="center">
- <img src="https://www.facebook.com/photo/?fbid=2217321721798488" style="height: 1000px; width:1000px; border-radius: 500px;"/>
+ <img src="https://www.facebook.com/photo/?fbid=2217321721798488" alt="placeholder image" style="height: 1000px; width:1000px; border-radius: 500px;"/>
 </p>
 
 # **Contact**
