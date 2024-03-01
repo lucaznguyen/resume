@@ -6,7 +6,9 @@ layout: home
 # **Contact**
 
 Nguyen Tran Huu Thinh
+
 VinUniversity, Hanoi, Vietnam
+
 **Email:** thinhnguyenresearch@gmail.com
 
 # **Objectives**
