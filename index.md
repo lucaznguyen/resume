@@ -29,7 +29,7 @@ I am currently studying for a Master's in Data Science at VNU-HCM, University of
 
 **Abstract:** This paper presents an effective solution to the aforementioned issues. The proposed technique queries the existence of a class label using Transformer decoders and the text embedding method to initiate the query. The new framework is simple, efficient, and consistently outperforms all preceding works on the FATHOMNET, FAIR1M, and DOTA datasets.
 
-**Available at:** [ieee][https://ieeexplore.ieee.org/document/10299421/]
+**Available at:** [ieee](https://ieeexplore.ieee.org/document/10299421/)
 
 ## The Effect of Sequence Transferability on Performance and Task Order Selection in Continual Learning
 **Authors:** Thinh Nguyen, Cuong N. Nguyen, Quang Pham, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Cuong V. Nguyen
