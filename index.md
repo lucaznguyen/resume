@@ -6,15 +6,15 @@ layout: home
  <img src="01.jpg" alt="Avatar" style="height: 300px; width:300px; border-radius: 150px;"/>
 </p>
 
- <center>
-  Nguyen Tran Huu Thinh
+<center>
+ Nguyen Tran Huu Thinh
 
-  VinUniversity, Hanoi, Vietnam
+ VinUniversity, Hanoi, Vietnam
 
-  **Email:** thinhnguyenresearch@gmail.com
+ **Email:** thinhnguyenresearch@gmail.com
 
-  [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/lucaznguyen/)
- </center>
+ [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/lucaznguyen/)
+</center>
 
 # **Objectives**
 
