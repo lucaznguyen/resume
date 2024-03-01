@@ -3,7 +3,7 @@ title: Basic information
 layout: home
 ---
 <p align="center">
- <img src="https://www.facebook.com/photo/?fbid=2217321721798488&set=a.107758459421502" alt="Avatar" class="img-fluid" style="height: 1000px; width:1000px;"/>
+ <img src="https://www.facebook.com/photo/?fbid=2217321721798488&set=a.107758459421502" alt="Avatar" style="height: 1000px; width:1000px; border-radius: 500px;"/>
 </p>
 
 # **Contact**
