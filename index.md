@@ -3,7 +3,7 @@ title: Basic information
 layout: home
 ---
 <p align="center">
- <img src="01.jpg" alt="Avatar" style="height: 1000px; width:1000px; border-radius: 500px;"/>
+ <img src="01.jpg" alt="Avatar" style="height: 300px; width:300px; border-radius: 150px;"/>
 </p>
 
 # **Contact**
